@@ -217,38 +217,29 @@ Select the desired network interface to begin live packet capture.
 ---
 
 ## Screenshots
+## HTML Dashboard
 
-### Console Output
+### Dashboard Overview
 
-Displays:
+![Dashboard Overview](images/Dashboard_Overview.png)
 
-- Live Packet Capture
-- Packet Parsing
-- HTTP Requests
-- TCP Flags
-- Flow Statistics
+### Flow Details Table
 
----
+![Flow Table](images/Dashboard_Flow_Table.png)
 
-### HTML Dashboard
+## PDF Report
 
-Displays:
+![PDF Report](images/PDF_Report.png)
 
-- Threat Dashboard
-- Active Flows
-- Interactive Charts
-- Searchable Flow Table
+## Console Output
 
----
+![Console 1](images/Console_Output_1.png)
 
-### PDF Report
+![Console 2](images/Console_Output_2.png)
 
-Contains:
+![Console 3](images/Console_Output_3.png)
 
-- Report Summary
-- Threat Summary
-- Flow Details
-- Report Generation Timestamp
+![Console 4](images/Console_Output_4.png)
 
 ---
 
